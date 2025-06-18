@@ -1,0 +1,6 @@
+StaffID,Name,Role,Department,Experience_Years
+1,Dr. Adams,Doctor,OPD,15
+2,Nurse Betty,Nurse,ICU,8
+3,Dr. Clark,Doctor,Surgery,20
+4,Technician Dave,Technician,Diagnostics,5
+5,Nurse Ellen,Nurse,Surgery,10

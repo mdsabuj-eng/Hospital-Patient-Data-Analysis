@@ -1,0 +1,6 @@
+PatientID,Name,Age,Gender,AdmissionDate,DischargeDate,Outcome
+1,John Doe,45,Male,2024-01-10,2024-01-20,Recovered
+2,Jane Smith,60,Female,2024-02-05,2024-02-18,Expired
+3,Alice Johnson,30,Female,2024-03-12,2024-03-20,Recovered
+4,Bob Brown,70,Male,2024-04-01,2024-04-15,Readmitted
+5,Emily Davis,50,Female,2024-05-07,2024-05-17,Recovered
